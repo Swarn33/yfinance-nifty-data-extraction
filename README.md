@@ -7,7 +7,7 @@ I have also single added WMT dataset just for reference.
 
 ## Acknowledgements
 
-I would like to thank yahoo and yfinance developer team for making an amazing free data tool.
+I would like to thank yfinance developer team for making an amazing free data tool.
 
 
 ## Appendix
